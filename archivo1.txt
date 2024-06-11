@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nueva línea de código de la rama master
+=======
+nueva línea de código en futuro_conflicto
+>>>>>>> futuro_conflicto
